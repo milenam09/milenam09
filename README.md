@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">Sou estudande de Desenvolvimento de Sistemas no SENAI de informatica, atualmente no segundo semestre. Também estou cursando o Ensino Medio na Escola Moura Branco. Resido em São Caetano, em São Paulo.</p>
+<p align="left">Sou estudante de Desenvolvimento de Sistemas no SENAI de Informática, atualmente cursando o segundo semestre. Paralelamente, faço o Ensino Médio na Escola Moura Branco.
+
+Sou jogadora de handebol, esporte que me proporcionou disciplina, foco, trabalho em equipe e diversas outras habilidades que têm contribuído de forma significativa para minha trajetória acadêmica e pessoal.
+
+Resido em São Caetano do Sul, São Paulo.</p>
 
 ###
 
